@@ -51,11 +51,11 @@ and coding of course :computer:
 ### Recent YouTube videos
 
 <!-- YOUTUBE:START -->
+- [Создаем красивый профиль на GitHub](https://www.youtube.com/watch?v=lck_kqJJyHA)
 - [Codewars. Онлайн самоучитель по программированию](https://www.youtube.com/watch?v=Jm7nca3jk4M)
 - [База данных SQLite в Python. Выборка, связь таблиц #2](https://www.youtube.com/watch?v=gm0p517EG7o)
 - [База данных SQLite в Python. Создание БД, вставка в БД](https://www.youtube.com/watch?v=K1C5JAo7cMU)
 - [Виртуальное окружение Python. Virtual environment. Создание, активация, использование.](https://www.youtube.com/watch?v=ccYQCQ5aPww)
-- [Unit тесты в Python. Тестирование кода](https://www.youtube.com/watch?v=lKo-F3gSl7I)
 <!-- YOUTUBE:END -->
 
 [more videos...][youtube]
