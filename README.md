@@ -47,6 +47,15 @@ and coding of course :computer:
 <br />
 <br />
 
+---
+### Recent YouTube videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+[more videos...][youtube]
+---
+
 ### You can contact me:
 
 [<img align="left" alt="YouTube" width="26px" src="https://image.flaticon.com/icons/svg/174/174883.svg" />][youtube]
