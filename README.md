@@ -71,7 +71,7 @@ and coding of course :computer:
 [<img align="left" alt="CodeWars" width="320px" src="https://www.codewars.com/users/SweetCoderYouTube/badges/large" />][codewars]
 
 [facebook]: https://fb.me/SweetCoderYouTube
-[twitter]: https://twitter.com/
+[twitter]: https://twitter.com/Sweet_Coder
 [youtube]: https://youtube.com/SweetCoder?sub_confirmation=1
 [instagram]: https://www.instagram.com/sweet.coder/
 [codewars]: https://www.codewars.com/r/J_sduw
