@@ -51,11 +51,11 @@ and coding of course :computer:
 ### Recent YouTube videos
 
 <!-- YOUTUBE:START -->
+- [Создание десктопного приложения с помощью Tkinter #4](https://www.youtube.com/watch?v=HMPIeZ3S_cs)
 - [Создание десктопного приложения с помощью Tkinter #3](https://www.youtube.com/watch?v=NWhwUpV4FsU)
 - [Создание десктопного приложения с помощью Tkinter #2](https://www.youtube.com/watch?v=B4eLmZkQQOc)
 - [Создание десктопного приложения с помощью Tkinter #1](https://www.youtube.com/watch?v=cOAJvWgyAmM)
 - [Модуль для управления OS в Python](https://www.youtube.com/watch?v=hO40YIass5s)
-- [Создаем красивый профиль на GitHub](https://www.youtube.com/watch?v=lck_kqJJyHA)
 <!-- YOUTUBE:END -->
 
 [more videos...][youtube]
