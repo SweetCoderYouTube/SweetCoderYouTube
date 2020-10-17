@@ -51,11 +51,11 @@ and coding of course :computer:
 ### Recent YouTube videos
 
 <!-- YOUTUBE:START -->
+- [Главное меню. Создание десктопного приложения с помощью Tkinter #10](https://www.youtube.com/watch?v=LPqROrIfAOw)
 - [Мультиязычность. Языковые пакеты. Создание десктопного приложения с помощью Tkinter #9](https://www.youtube.com/watch?v=7mWCzg31NCM)
 - [Стилизация элементов. Темы оформления. Создание десктопного приложения с помощью Tkinter #8](https://www.youtube.com/watch?v=ckP7j8h4V90)
 - [Валидация данных из формы. Создание десктопного приложения с помощью Tkinter #7](https://www.youtube.com/watch?v=iKGQZJ5Oyoc)
 - [Обновление данных в окне. ООП. Рефакторинг. Создание десктопного приложения с помощью Tkinter #6](https://www.youtube.com/watch?v=S4ZYKA2Zews)
-- [Отправка формы данных. Entry. Combobox. DateEntry. Создание десктопного приложения с Tkinter #5](https://www.youtube.com/watch?v=PF6TQ9cRjHo)
 <!-- YOUTUBE:END -->
 
 [more videos...][youtube]
