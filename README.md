@@ -51,11 +51,11 @@ and coding of course :computer:
 ### Recent YouTube videos
 
 <!-- YOUTUBE:START -->
+- [Визуализация данных. Графики и диаграммы. Matplotlib в Python](https://www.youtube.com/watch?v=ELFPpTzxNu8)
 - [Всплывающие окна. Информационные и диалоговые. Создание десктопного приложения с помощью Tkinter #11](https://www.youtube.com/watch?v=m5FvCH-V1NU)
 - [Главное меню. Создание десктопного приложения с помощью Tkinter #10](https://www.youtube.com/watch?v=LPqROrIfAOw)
 - [Мультиязычность. Языковые пакеты. Создание десктопного приложения с помощью Tkinter #9](https://www.youtube.com/watch?v=7mWCzg31NCM)
 - [Стилизация элементов. Темы оформления. Создание десктопного приложения с помощью Tkinter #8](https://www.youtube.com/watch?v=ckP7j8h4V90)
-- [Валидация данных из формы. Создание десктопного приложения с помощью Tkinter #7](https://www.youtube.com/watch?v=iKGQZJ5Oyoc)
 <!-- YOUTUBE:END -->
 
 [more videos...][youtube]
