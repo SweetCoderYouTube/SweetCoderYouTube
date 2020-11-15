@@ -52,7 +52,7 @@ and coding of course :computer:
 
 <!-- YOUTUBE:START -->
 - [Как создать исполняемое приложение Python в MacOS и Windows. Десктопное приложение с помощью Tkinter](https://www.youtube.com/watch?v=BlypbqsBXb8)
-- [Визуализация данных. Графики и диаграммы. Matplotlib в Python](https://www.youtube.com/watch?v=ELFPpTzxNu8)
+- [Визуализация данных. Графики и диаграммы. Matplotlib в Python. Модули в Python](https://www.youtube.com/watch?v=ELFPpTzxNu8)
 - [Всплывающие окна. Информационные и диалоговые. Создание десктопного приложения с помощью Tkinter #11](https://www.youtube.com/watch?v=m5FvCH-V1NU)
 - [Главное меню. Создание десктопного приложения с помощью Tkinter #10](https://www.youtube.com/watch?v=LPqROrIfAOw)
 - [Мультиязычность. Языковые пакеты. Создание десктопного приложения с помощью Tkinter #9](https://www.youtube.com/watch?v=7mWCzg31NCM)
