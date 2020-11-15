@@ -51,11 +51,11 @@ and coding of course :computer:
 ### Recent YouTube videos
 
 <!-- YOUTUBE:START -->
+- [Работа с HTTP в Python. Библиотека requests. Модули в Python](https://www.youtube.com/watch?v=unwP2UjWRq8)
 - [Как создать исполняемое приложение Python в MacOS и Windows. Десктопное приложение с помощью Tkinter](https://www.youtube.com/watch?v=BlypbqsBXb8)
 - [Визуализация данных. Графики и диаграммы. Matplotlib в Python. Модули в Python](https://www.youtube.com/watch?v=ELFPpTzxNu8)
 - [Всплывающие окна. Информационные и диалоговые. Создание десктопного приложения с помощью Tkinter #11](https://www.youtube.com/watch?v=m5FvCH-V1NU)
 - [Главное меню. Создание десктопного приложения с помощью Tkinter #10](https://www.youtube.com/watch?v=LPqROrIfAOw)
-- [Мультиязычность. Языковые пакеты. Создание десктопного приложения с помощью Tkinter #9](https://www.youtube.com/watch?v=7mWCzg31NCM)
 <!-- YOUTUBE:END -->
 
 [more videos...][youtube]
