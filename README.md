@@ -51,11 +51,11 @@ and coding of course :computer:
 ### Recent YouTube videos
 
 <!-- YOUTUBE:START -->
+- [Как передавать параметры в Python-скрипты | Базовый курс. Программирование на Python.](https://www.youtube.com/watch?v=mFtUTQO8Ga4)
 - [Ты не умеешь смотреть обучающие видео](https://www.youtube.com/watch?v=8JoDcwTeGpw)
 - [Декораторы в Python | Базовый курс. Программирование на Python.](https://www.youtube.com/watch?v=BaQuQ8cdUwk)
 - [Как парсить динамические web сайты в Python. Beautiful soup 4.](https://www.youtube.com/watch?v=sjq8KSMWxQ4)
 - [Как парсить статические Web сайты в Python. Beautiful soup 4](https://www.youtube.com/watch?v=os5ig-EekMs)
-- [TOP-5 самых популярных YouTube каналов среди моих подписчиков. Google API. PyQt5.](https://www.youtube.com/watch?v=13PaRAO2o44)
 <!-- YOUTUBE:END -->
 
 [more videos...][youtube]
