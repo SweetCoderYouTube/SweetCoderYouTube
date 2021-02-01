@@ -51,11 +51,11 @@ and coding of course :computer:
 ### Recent YouTube videos
 
 <!-- YOUTUBE:START -->
+- [Оператор yield и генераторы в Python | Базовый курс. Программирование на Python.](https://www.youtube.com/watch?v=MuDxH_KIy80)
 - [С Новым Годом!](https://www.youtube.com/watch?v=ZFpj_4ogLNY)
 - [Как передавать параметры в Python-скрипты | Базовый курс. Программирование на Python.](https://www.youtube.com/watch?v=mFtUTQO8Ga4)
 - [Ты не умеешь смотреть обучающие видео](https://www.youtube.com/watch?v=8JoDcwTeGpw)
 - [Декораторы в Python | Базовый курс. Программирование на Python.](https://www.youtube.com/watch?v=BaQuQ8cdUwk)
-- [Как парсить динамические web сайты в Python. Beautiful soup 4.](https://www.youtube.com/watch?v=sjq8KSMWxQ4)
 <!-- YOUTUBE:END -->
 
 [more videos...][youtube]
