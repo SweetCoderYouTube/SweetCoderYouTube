@@ -51,11 +51,11 @@ and coding of course :computer:
 ### Recent YouTube videos
 
 <!-- YOUTUBE:START -->
+- [Python-разработчикам больше не нужен JavaScript. Brython, или Python в браузере](https://www.youtube.com/watch?v=Y-rK70sCX5w)
 - [Настройка VS Code для программирования на Python | Базовый курс. Программирование на Python](https://www.youtube.com/watch?v=4IT5s695A6w)
 - [Sockets или как создать полноценный сервер на Python в домашних условиях #2 | Базовый курс Python](https://www.youtube.com/watch?v=bA-L87QZtic)
 - [Socket или как создать собственный сервер на Python в домашних условиях #1 | Базовый курс Python](https://www.youtube.com/watch?v=f5ic6D30_mQ)
 - [Базы данных в Python. Использование ORM Peewee #4 | Базовый курс. Программирование на Python](https://www.youtube.com/watch?v=5519lca-I2k)
-- [База данных SQLite в Python. ORM, peewee #3 | Базовый курс. Программирование на Python](https://www.youtube.com/watch?v=8dla28TLvwA)
 <!-- YOUTUBE:END -->
 
 [more videos...][youtube]
