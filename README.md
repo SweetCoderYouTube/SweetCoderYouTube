@@ -51,7 +51,7 @@ and coding of course :computer:
 ### Recent YouTube videos
 
 <!-- YOUTUBE:START -->
-- [Библиотека Pygame. Работа с текстом и слоями | Pygame с нуля](https://www.youtube.com/watch?v=okZ12woz_ZQ)
+- [Библиотека Pygame. Работа с текстом и поверхностями | Pygame с нуля](https://www.youtube.com/watch?v=okZ12woz_ZQ)
 - [Библиотека Pygame. Базовые элементы визуального оформления. Геометрические примитивы | Pygame с нуля](https://www.youtube.com/watch?v=f784MuNkeaI)
 - [Библиотека Pygame. Обзор, установка, шаблон проекта | Pygame с нуля](https://www.youtube.com/watch?v=F6uWUmL9ItA)
 - [Python-разработчикам больше не нужен Photoshop. Pillow, или программируемый фото-редактор](https://www.youtube.com/watch?v=0AndYkIp-K4)
