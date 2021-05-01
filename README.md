@@ -51,11 +51,11 @@ and coding of course :computer:
 ### Recent YouTube videos
 
 <!-- YOUTUBE:START -->
+- [Каналу Sweet Coder 1 год!!! 🥳🤙🍺🤘🥂🍷🍻😱🍾🍰](https://www.youtube.com/watch?v=VCHOPzZ0_cA)
 - [Библиотека Pygame #4. Использование изображений | Pygame с нуля](https://www.youtube.com/watch?v=DF21F1b-yuA)
 - [Библиотека Pygame #3. Работа с текстом и поверхностями | Pygame с нуля](https://www.youtube.com/watch?v=okZ12woz_ZQ)
 - [Библиотека Pygame #2. Базовые элементы визуализации. Геометрические примитивы | Pygame с нуля](https://www.youtube.com/watch?v=f784MuNkeaI)
 - [Библиотека Pygame #1. Обзор, установка, шаблон проекта | Pygame с нуля](https://www.youtube.com/watch?v=F6uWUmL9ItA)
-- [Python-разработчикам больше не нужен Photoshop. Pillow, или программируемый фото-редактор](https://www.youtube.com/watch?v=0AndYkIp-K4)
 <!-- YOUTUBE:END -->
 
 [more videos...][youtube]
