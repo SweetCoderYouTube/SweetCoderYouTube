@@ -51,11 +51,11 @@ and coding of course :computer:
 ### Recent YouTube videos
 
 <!-- YOUTUBE:START -->
+- [Библиотека Pygame #7. Реализация функционала drag and drop | Pygame с нуля](https://www.youtube.com/watch?v=xUNQT6kUoLk)
 - [Библиотека Pygame #6. Использование мыши в играх | Pygame с нуля](https://www.youtube.com/watch?v=3H6iLg8d5pM)
 - [Библиотека Pygame #5. Активные элементы в игре. Использование спрайтов (Sprite) | Pygame с нуля](https://www.youtube.com/watch?v=BuegGVCoWm8)
 - [Каналу Sweet Coder 1 год!!! 🥳🤙🍺🤘🥂🍷🍻😱🍾🍰](https://www.youtube.com/watch?v=VCHOPzZ0_cA)
 - [Библиотека Pygame #4. Использование изображений | Pygame с нуля](https://www.youtube.com/watch?v=DF21F1b-yuA)
-- [Библиотека Pygame #3. Работа с текстом и поверхностями | Pygame с нуля](https://www.youtube.com/watch?v=okZ12woz_ZQ)
 <!-- YOUTUBE:END -->
 
 [more videos...][youtube]
