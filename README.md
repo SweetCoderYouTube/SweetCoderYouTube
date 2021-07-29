@@ -51,11 +51,11 @@ and coding of course :computer:
 ### Recent YouTube videos
 
 <!-- YOUTUBE:START -->
+- [Что должен знать каждый программист](https://www.youtube.com/watch?v=haMI3Oy_4iU)
 - [Как понять, что IT компания тебе не подходит](https://www.youtube.com/watch?v=Jfm-mOT6F8s)
 - [Где программисту искать первую работу в IT](https://www.youtube.com/watch?v=KrO4i6L-RAE)
 - [Библиотека Pygame #9. Управление звуковыми эффектами. Финал курса | Pygame с нуля](https://www.youtube.com/watch?v=5mX8lvXdAR0)
 - [Библиотека Pygame #8. События клавиатуры и текстовые поля | Pygame с нуля](https://www.youtube.com/watch?v=cj3F2pMtDkk)
-- [Библиотека Pygame #7. Реализация функционала drag and drop | Pygame с нуля](https://www.youtube.com/watch?v=xUNQT6kUoLk)
 <!-- YOUTUBE:END -->
 
 [more videos...][youtube]
